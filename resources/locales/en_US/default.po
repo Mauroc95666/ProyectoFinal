@@ -1,0 +1,116 @@
+msgid "Usuarios"
+msgstr "Users"
+
+msgid "Climas"
+msgstr "Weather"
+
+msgid "Cerrar Sesión"
+msgstr "Logout"
+
+msgid "Iniciar Sesión"
+msgstr "Login"
+
+msgid "Registrarse"
+msgstr "Sign Up"
+
+msgid "Correo Electrónico"
+msgstr "Email Address"
+
+msgid "Contraseña"
+msgstr "Password"
+
+msgid "Ingresar"
+msgstr "Submit"
+
+msgid "Error: No se encontró el correo en la base de datos."
+msgstr "Error: Email not found in the database."
+
+msgid "Error: La contraseña es incorrecta."
+msgstr "Error: Incorrect password."
+
+msgid "Correo o contraseña incorrectos."
+msgstr "Incorrect email or password."
+
+msgid "Nombre"
+msgstr "First Name"
+
+msgid "Apellido"
+msgstr "Last Name"
+
+msgid "Correo"
+msgstr "Email"
+
+msgid "Acciones"
+msgstr "Actions"
+
+msgid "Ver"
+msgstr "View"
+
+msgid "Editar"
+msgstr "Edit"
+
+msgid "Eliminar"
+msgstr "Delete"
+
+msgid "¿Está seguro de eliminar a {0}?"
+msgstr "Are you sure you want to delete {0}?"
+
+msgid "Lecturas Meteorológicas"
+msgstr "Weather Readings"
+
+msgid "Lectura Meteorológica"
+msgstr "Weather Reading"
+
+msgid "Nueva Lectura"
+msgstr "New Reading"
+
+msgid "Editar Lectura"
+msgstr "Edit Reading"
+
+msgid "Ver Lectura"
+msgstr "View Reading"
+
+msgid "Temperatura"
+msgstr "Temperature"
+
+msgid "Humedad"
+msgstr "Humidity"
+
+msgid "Viento"
+msgstr "Wind"
+
+msgid "Velocidad del Viento"
+msgstr "Wind Speed"
+
+msgid "Precipitación"
+msgstr "Precipitation"
+
+msgid "Fecha"
+msgstr "Date"
+
+msgid "Hora"
+msgstr "Time"
+
+msgid "Ubicación"
+msgstr "Location"
+
+msgid "Temperatura Actual"
+msgstr "Current Temperature"
+
+msgid "Humedad"
+msgstr "Humidity"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Buscar por ubicación..."
+msgstr "Search by location..."
+
+msgid "Buscar por nombre o correo..."
+msgstr "Search by name or email..."
+
+msgid "Buscar"
+msgstr "Search"
+
+msgid "Limpiar"
+msgstr "Clear"
